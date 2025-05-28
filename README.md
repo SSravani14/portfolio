@@ -1,12 +1,34 @@
-# React + Vite
+# 💼 Sravani Siddanthapu's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website — a showcase of my projects, skills, and experiences as a Software Engineer. Built with a focus on performance, responsiveness, and clean UI, this portfolio highlights my work across front-end technologies, side projects, and startup experience.
 
-Currently, two official plugins are available:
+🌐 **Live Site:** [https://ssravani14.github.io/portfolio/](https://ssravani14.github.io/portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category    | Technologies Used |
+|-------------|-------------------|
+| **Languages**   | TypeScript, JavaScript, HTML, CSS |
+| **Frameworks/Libraries** | React, React Router, Tailwind CSS |
+| **Tools & Others** | VS Code, GitHub Pages, ESLint, Prettier |
+
+
+---
+
+## Features
+
+- ⚡ **Fast and Responsive**: Optimized for performance across all screen sizes.
+- 🧩 **Component-Based**: Reusable and cleanly structured components.
+- 🌙 **Modern Design**: Built with Tailwind CSS for rapid and stylish UI development.
+- 🌐 **Deployed on GitHub Pages**: Easily accessible and continuously updated.
+- 📱 **Mobile-Friendly**: Fully responsive layout using Flexbox/Grid.
+
+---
+
+## Contact me:
+  - email: siddanthapusravani@gmail.com
+  - linkedin: https://www.linkedin.com/in/sravanisiddanthapu
+
+
